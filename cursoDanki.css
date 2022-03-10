@@ -1,0 +1,75 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	background-color: lightblue;
+	font-style: Arial, Helvetica, sans-serif;
+}
+
+.containerProject {
+	width: 220px;
+	height: 60%;
+	margin:  auto;
+	margin-top: 5%;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px 5px;
+	background-color: whitesmoke;
+	
+}
+
+.divResult {
+	width: 140px;
+	height: 80px;
+	margin-top: 5px;
+	margin-left: 20%;
+}
+
+.contentProject {
+	width: 120px;
+	margin: auto;
+}
+
+header {
+	color: blue;
+}
+
+footer {
+	margin-top: 30px;
+}
+
+input {
+	width: 40px;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+
+strong {
+	color: blue;
+}
+
+.btn {
+	width: 100px;
+	height: 40px;
+	color: whitesmoke;
+	cursor: pointer;
+	border-radius: 5px;
+	border-style: none;
+}
+
+.btn-1:hover {
+	color: black;
+	background-color: rgb(231, 75, 54);
+}
+
+.btn-2:hover {
+	color: black;
+	background-color: lightgreen;
+}
+
+.btn-1 {
+	background-color: red;
+}
+
+.btn-2 {
+	background-color: rgb(11, 196, 11);
+}
